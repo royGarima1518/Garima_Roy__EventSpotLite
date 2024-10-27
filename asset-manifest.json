@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Garima_Roy__EventSpotLite/static/css/main.6cddf1e4.css",
+    "main.js": "/Garima_Roy__EventSpotLite/static/js/main.1e1093f1.js",
+    "static/js/453.ed3810f9.chunk.js": "/Garima_Roy__EventSpotLite/static/js/453.ed3810f9.chunk.js",
+    "static/media/third.jpg": "/Garima_Roy__EventSpotLite/static/media/third.9d51501794a9b64f81bd.jpg",
+    "static/media/six.jpg": "/Garima_Roy__EventSpotLite/static/media/six.053030f59844b98ccd18.jpg",
+    "static/media/ten.jpg": "/Garima_Roy__EventSpotLite/static/media/ten.ac1641c55335188a6222.jpg",
+    "static/media/fourth.jpg": "/Garima_Roy__EventSpotLite/static/media/fourth.6dc53c239ead8a9120d0.jpg",
+    "static/media/five.jpg": "/Garima_Roy__EventSpotLite/static/media/five.31a186fe7a89a1ba762b.jpg",
+    "static/media/second.jpg": "/Garima_Roy__EventSpotLite/static/media/second.b84a7ba4c0891ac33747.jpg",
+    "static/media/nine.jpg": "/Garima_Roy__EventSpotLite/static/media/nine.d2ae14aa91a2b78424ea.jpg",
+    "static/media/seven.jpg": "/Garima_Roy__EventSpotLite/static/media/seven.58eab58999836fde6d49.jpg",
+    "static/media/first.jpg": "/Garima_Roy__EventSpotLite/static/media/first.5cad2cfe3b7a7f85f09e.jpg",
+    "static/media/eight.jpg": "/Garima_Roy__EventSpotLite/static/media/eight.b15d725cc1e660d09630.jpg",
+    "static/media/icon.svg": "/Garima_Roy__EventSpotLite/static/media/icon.2f39d143225a61582b2cfddfac48888a.svg",
+    "index.html": "/Garima_Roy__EventSpotLite/index.html",
+    "main.6cddf1e4.css.map": "/Garima_Roy__EventSpotLite/static/css/main.6cddf1e4.css.map",
+    "main.1e1093f1.js.map": "/Garima_Roy__EventSpotLite/static/js/main.1e1093f1.js.map",
+    "453.ed3810f9.chunk.js.map": "/Garima_Roy__EventSpotLite/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cddf1e4.css",
+    "static/js/main.1e1093f1.js"
+  ]
+}
